@@ -20,3 +20,4 @@ Contiene las siguentes funcinalidades:
 
 ![Editar cliente visualizacion](https://user-images.githubusercontent.com/58377353/72193014-7e23ee00-33e6-11ea-97bd-a5072932945e.png)
 
+Advertencia: Todos los datos de la configuraciones de coneccion con la base de datos son de ejemplo, asi como los datos de los "clientes". Por lo cual se recomienda cambiarlos por sus datos personales para que pueda funcionar.
