@@ -1,6 +1,4 @@
 # Control-clientes
-Esta pagina web básica, es practica del curso de java.
-
 ## Proyecto final con Servlets y JSP's
 Contiene una capa de datos logica para establecer la separacion entre la capa de presentacion y la capa de acceso a datos.
 Acontinuacion se muestra en la imagen todos los archivos que contiene el proyecto y su ubicacion: 
